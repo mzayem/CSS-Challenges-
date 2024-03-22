@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  font-size: 21px;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.content-wrapper {
+  margin: 0;
+  padding: 100px 0px;
+}
+
+.header {
+  background-color: #d7d7d7;
+}
+
+.about-us {
+  background-color: #ffeaea;
+}
+
+.article {
+  background-color: #eaf9ff;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 400;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: #99d930;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #131313;
+}
+
+.bold {
+  font-weight: 800;
+  display: block;
+}
+
+h1 .bold {
+  font-size: 80;
+}
+h2 .bold {
+  font-size: 60;
+}
