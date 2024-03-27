@@ -63,3 +63,23 @@ h1 .bold {
 h2 .bold {
   font-size: 60;
 }
+
+.button {
+  margin: 10px 10px;
+  color: #252525;
+  font-size: 16px;
+  background: #99d930;
+  padding: 10px 30px;
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  background: #252525;
+  color: #fff;
+  outline: none;
+}
