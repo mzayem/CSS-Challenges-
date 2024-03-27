@@ -33,7 +33,7 @@ h2 {
   font-size: 60px;
   font-weight: 400;
   /* border: solid 1px #c4c4c4; */
-  display: inline-block; 
+  display: inline-block;
   position: relative;
 }
 
@@ -102,6 +102,9 @@ h2 .bold {
 .button:hover,
 .button:focus {
   background: #fff;
-  color: #252525
-  outline: none;
+  color: #252525;
+}
+
+header img {
+  border-radius: 100%;
 }
