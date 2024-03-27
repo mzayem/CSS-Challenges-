@@ -11,15 +11,17 @@ body {
 }
 
 .header {
-  background-color: #d7d7d7;
+  background: #252525;
+  color: #fff;
 }
 
 .about-us {
-  background-color: #ffeaea;
+  background-color: lightgray;
 }
 
 .article {
-  background-color: #eaf9ff;
+  background: #252525;
+  color: #fff;
 }
 h1 {
   font-size: 60px;
