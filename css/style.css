@@ -88,12 +88,11 @@ h2 .bold {
 }
 
 .button {
-  margin: 10px 10px;
+  margin: 20px 10px;
   color: #252525;
   font-size: 16px;
   background: #99d930;
   padding: 10px 30px;
-  display: inline-block;
   text-decoration: none;
   border: none;
   transition: background-color 0.3s, color 0.3s;
